@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Hello Popup",
+  "version": "1.0",
+  "description": "A simple popup that says hello.",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
